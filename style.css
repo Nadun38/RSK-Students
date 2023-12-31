@@ -1,0 +1,54 @@
+body {
+    background-color: #8b4bc7;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-left: 26%;
+    background-color: #b849da;
+    color: #2a0833;
+    position: fixed;
+    padding: 3px;
+
+}
+
+h1:hover {
+    background-color: #2a0833;
+    color: #b849da;
+    border-bottom: 3px solid #b849da;
+    padding: 5px;
+    cursor: pointer;
+}
+
+table
+{
+    margin-left: 35%;
+    border: 4px solid #1e0724;
+    background-color: #b360da;
+    padding-top: 50px;
+    width: 35%;
+
+}
+
+th
+{
+  color: #420853;
+  font-size: 20;
+  border: 1px solid #2c0833;
+  background-color: #c956ec;
+  text-align: center;
+
+}
+td
+{
+  color: #210830;
+  font-size: 20;
+  border: 1px solid #20072c;
+  height: 100px;
+  text-align: center;
+}
